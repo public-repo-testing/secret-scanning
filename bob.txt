@@ -1,2 +1,3 @@
 gcp_token: "AIzaSyAQfxPJiounkhOjODEO5ZieffeBv6yft2Q"
 secret_access_key = "YkL8AXTbPHFXCoxwQntFTuryvPyrvanU+zRu6Mg1";
+LOCALSTACK_API_KEY=keoD4ief
